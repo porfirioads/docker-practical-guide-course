@@ -27,3 +27,6 @@ Temporary Items
 
 # Environment variables
 .env
+
+# Libraries
+node_modules
